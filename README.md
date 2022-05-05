@@ -12,6 +12,6 @@ Epileptic Seizure Recognition.csv. This is a classification study using four
 different classification models (Logistic Regression, RandomForest, 
 AdaBoost, Support Vector Machine). A comparison of three different evaluations of 
 each classifier include confusion matrix of predicted labels and true lable for one
-versus all. A performance measurement including area under the curve and reveiver 
+versus all. A performance measurement including area under the curve and receiver 
 operating characteristics curve to assess the models performance. Last but not least 
 a f1 score to show a different metric for performance. 
