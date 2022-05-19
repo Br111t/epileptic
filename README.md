@@ -1,6 +1,6 @@
 # epileptic
 
-Project proposal Link: https://docs.google.com/document/d/1XsYonmJxtWxmO-VwinrG6O9jq2TXpoBl/edit?usp=sharing&ouid=111910704659996256889&rtpof=true&sd=true
+Project proposal Link: https://drive.google.com/file/d/1rAmBgx9QHg5QCsKNss43A3yxI0xl_iCb/view?usp=sharing
 
 Project presentation Link: https://docs.google.com/presentation/d/1f8G6-3QF6C-VryGh_LMk38CfotqyYO1UKPZSFuduyIk/edit?usp=sharing
 
